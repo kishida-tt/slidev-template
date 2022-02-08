@@ -183,7 +183,7 @@
     js-base64 "^3.7.2"
     js-yaml "^4.1.0"
     katex "^0.15.2"
-    mermaid "8.13.0"
+    mermaid "8.13.8"
     monaco-editor "^0.31.1"
     nanoid "^3.1.32"
     prettier "^2.5.1"
