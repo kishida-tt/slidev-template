@@ -3,7 +3,7 @@
 # コンフィグの詳細は下記から
 # https://github.com/slidevjs/slidev/blob/main/packages/types/src/config.ts
 theme: default
-colorSchema: 'light'
+colorSchema: 'auto'
 class: 'text-left'
 highlighter: shiki
 lineNumbers: false
